@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Static &amp; Dynamic Variables/Static &amp; Dynamic Variables.vcxproj" />
+</Solution>
