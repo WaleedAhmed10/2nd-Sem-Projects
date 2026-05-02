@@ -65,6 +65,24 @@ public:
     }
 };
 
+class sumIntegers
+{
+private:
+    static int sum;
+public:
+    void add(int num)
+    {
+        sum += num;
+        cout << "Current Sum: " << sum << endl;
+    }
+    static int getSum()
+    {
+        return sum;
+    }
+};
+
+int sumIntegers::sum = 0;
+
 int main()
 {
     alpha a1;
@@ -82,6 +100,17 @@ int main()
     cin >> x;
     cout << "Fibonacci numbers up to " << x << " terms: ";
     Fibonacci::printSeries(x);
+
+    sumIntegers obj1, obj2;
+    int m;
+    cout << "\nPlease enter 5 numbers to be summed" << endl;
+    for (int i = 1; i <= 5; ++i)
+    {
+        cout << "Enter a number: ";
+        cin >> m;
+        obj1.add(m);
+    }
+    cout << "The final total is: " << sumIntegers::getSum() << endl;
 
     Box b1(1.0, 2.0, 3.0);
     Box b2(4.0, 5.0, 6.0);

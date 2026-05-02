@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Static &amp; Dynamic Variables/Static &amp; Dynamic Variables.vcxproj" />
+  <Project Path="Static &amp; Dynamic Variables/Static &amp; Dynamic Variables.vcxproj" Id="4bb9b52c-2951-40b3-8712-182e9864ad71" />
 </Solution>

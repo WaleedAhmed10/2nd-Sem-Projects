@@ -1,2 +1,3 @@
 ﻿  Alpha Fibonacci Box.cpp
-  Static & Dynamic Variables.vcxproj -> C:\Users\walee\source\repos\Static & Dynamic Variables\x64\Debug\Static & Dynamic Variables.exe
+C:\Users\walee\source\repos\Static Variables\Static & Dynamic Variables\Alpha Fibonacci Box.cpp(104,23): warning C4101: 'obj2': unreferenced local variable
+  Static & Dynamic Variables.vcxproj -> C:\Users\walee\source\repos\Static Variables\x64\Debug\Static & Dynamic Variables.exe

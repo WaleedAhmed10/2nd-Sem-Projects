@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\walee\\source\\repos\\Static \u0026 Dynamic Variables\\",
+  "WorkspaceRootPath": "C:\\Users\\walee\\source\\repos\\Static Variables\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BB9B52C-2951-40B3-8712-182E9864AD71}|Static \u0026 Dynamic Variables\\Static \u0026 Dynamic Variables.vcxproj|C:\\Users\\walee\\source\\repos\\Static \u0026 Dynamic Variables\\Static \u0026 Dynamic Variables\\Alpha Fibonacci Box.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4BB9B52C-2951-40B3-8712-182E9864AD71}|Static \u0026 Dynamic Variables\\Static \u0026 Dynamic Variables.vcxproj|C:\\Users\\walee\\source\\repos\\Static Variables\\Static \u0026 Dynamic Variables\\Alpha Fibonacci Box.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4BB9B52C-2951-40B3-8712-182E9864AD71}|Static \u0026 Dynamic Variables\\Static \u0026 Dynamic Variables.vcxproj|solutionrelative:Static \u0026 Dynamic Variables\\Alpha Fibonacci Box.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Alpha Fibonacci Box.cpp",
-              "DocumentMoniker": "C:\\Users\\walee\\source\\repos\\Static \u0026 Dynamic Variables\\Static \u0026 Dynamic Variables\\Alpha Fibonacci Box.cpp",
+              "DocumentMoniker": "C:\\Users\\walee\\source\\repos\\Static Variables\\Static \u0026 Dynamic Variables\\Alpha Fibonacci Box.cpp",
               "RelativeDocumentMoniker": "Static \u0026 Dynamic Variables\\Alpha Fibonacci Box.cpp",
-              "ToolTip": "C:\\Users\\walee\\source\\repos\\Static \u0026 Dynamic Variables\\Static \u0026 Dynamic Variables\\Alpha Fibonacci Box.cpp",
+              "ToolTip": "C:\\Users\\walee\\source\\repos\\Static Variables\\Static \u0026 Dynamic Variables\\Alpha Fibonacci Box.cpp",
               "RelativeToolTip": "Static \u0026 Dynamic Variables\\Alpha Fibonacci Box.cpp",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAYwEsAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAcwGgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-02T19:30:54.401Z",
               "EditorCaption": ""
