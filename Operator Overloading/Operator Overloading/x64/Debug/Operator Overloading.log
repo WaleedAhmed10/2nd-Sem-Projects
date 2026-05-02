@@ -1,0 +1,6 @@
+﻿  Operator Overloading.cpp
+C:\Users\walee\source\repos\Operator Overloading\Operator Overloading\Function\Operator Overloading.cpp(24,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\walee\source\repos\Operator Overloading\Operator Overloading\Function\Operator Overloading.cpp(52,5): error C2084: function 'int main(void)' already has a body
+      C:\Users\walee\source\repos\Operator Overloading\Operator Overloading\Function\Operator Overloading.cpp(9,5):
+      see previous definition of 'main'
+  
