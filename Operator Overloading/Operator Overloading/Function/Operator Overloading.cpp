@@ -2,22 +2,9 @@
 #include <cmath>
 using namespace std;
 
-//Functional Overloading:
+// Function Overloading
 int power(int);
 double power(double);
-
-int main()
-{
-    int a;
-    double x;
-    cout << "Enter an integer values: \n";
-    cin >> a;
-    cout << "Enter a floating value: \n";
-    cin >> x;
-    cout << power(a) << endl;
-    cout << power(x) << endl;
-    return 0;
-}
 
 int power(int x)
 {
@@ -29,7 +16,7 @@ double power(double x)
     return pow(x, 1.0 / 3.0);
 }
 
-//Operational Overloading:
+// Operator Overloading
 class counter
 {
 public:
@@ -45,12 +32,13 @@ public:
     }
     void display()
     {
-        cout << "Value of c1 = " << count << endl;
+        cout << "Value = " << count << endl;
     }
 };
 
 int main()
 {
+    // Operator overloading demo
     counter c1, c2;
     cout << "Value of c1 = " << c1.count << endl;
     cout << "Value of c2 = " << c2.count << endl;
@@ -59,11 +47,11 @@ int main()
 
     int a;
     double x;
-    cout << "Enter an integer values: \n";
+    cout << "Enter an integer value: \n";
     cin >> a;
     cout << "Enter a floating value: \n";
     cin >> x;
-    cout << power(a) << endl;
-    cout << power(x) << endl;
+    cout << "Cube root of " << a << " = " << power(a) << endl;
+    cout << "Cube root of " << x << " = " << power(x) << endl;
     return 0;
 }

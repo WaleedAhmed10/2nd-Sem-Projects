@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Operator Overloading/Operator Overloading.vcxproj" />
+  <Project Path="Operator Overloading/Operator Overloading.vcxproj" Id="be7c95ac-529d-4081-b4d9-e75a1e95e7eb" />
 </Solution>
