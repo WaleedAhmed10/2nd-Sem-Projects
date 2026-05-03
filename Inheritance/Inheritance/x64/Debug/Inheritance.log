@@ -1,3 +1,2 @@
 ﻿  student_marks.cpp
-C:\Users\walee\source\repos\Inheritance\Inheritance\student_marks.cpp(44,24): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
   Inheritance.vcxproj -> C:\Users\walee\source\repos\Inheritance\x64\Debug\Inheritance.exe

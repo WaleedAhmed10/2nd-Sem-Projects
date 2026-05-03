@@ -2,22 +2,23 @@
 #include <string>
 using namespace std;
 
-class student
-{
-protected:
+//Single inheritance
+class student {
+private:
     string name, rollNum, address;
 public:
     void getData()
     {
         cout << "Enter Name: ";
+        cin >> name;
         getline(cin, name);
         cout << "Enter Roll Number: ";
         cin >> rollNum;
-        cin.ignore();
         cout << "Enter Address: ";
+        cin >> address;
         getline(cin, address);
     }
-    void print() const
+    void displayData()
     {
         cout << "Name: " << name << endl;
         cout << "Roll Number: " << rollNum << endl;
@@ -25,13 +26,13 @@ public:
     }
 };
 
-class marks
-{
-protected:
-    float m1, m2, m3;
+class marks : public student {
+private:
+    int m1, m2, m3;
 public:
     void inputMarks()
     {
+        getData();
         cout << "Enter marks of subject 1: ";
         cin >> m1;
         cout << "Enter marks of subject 2: ";
@@ -39,16 +40,16 @@ public:
         cout << "Enter marks of subject 3: ";
         cin >> m3;
     }
-    int totalMarks() const
-    {
+    int totalMarks() {
         return m1 + m2 + m3;
     }
-    float avgMarks() const
+    int avgMarks()
     {
-        return totalMarks() / 3.0f;
+        return totalMarks() / 3;
     }
-    void show_detail() const
+    void show_detail()
     {
+        displayData();
         cout << "Marks in subject 1: " << m1 << endl;
         cout << "Marks in subject 2: " << m2 << endl;
         cout << "Marks in subject 3: " << m3 << endl;
@@ -57,16 +58,7 @@ public:
     }
 };
 
-class studentData : public student, public marks
-{
-public:
-    void displayData() const
-    {
-        print();
-        show_detail();
-    }
-};
-
+//Multiple inheritance
 class employee
 {
 protected:
@@ -171,11 +163,10 @@ public:
 
 int main()
 {
-    studentData std1;
-    std1.getData();
+    marks std1;
     std1.inputMarks();
-    cout << "\nStudent Details and Marks: ";
-    std1.displayData();
+    cout << "\nStudent Details and Marks:" << endl;
+    std1.show_detail();
     manager mgr;
     scientist sci;
     laborer lab;
