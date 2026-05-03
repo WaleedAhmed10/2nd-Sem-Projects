@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\walee\\source\\repos\\Assignment 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F5FEB7-B8E4-415B-9F11-3F4D10916BCB}|Assignment 1\\Assignment 1.vcxproj|C:\\Users\\walee\\source\\repos\\Assignment 1\\Assignment 1\\BankingSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1F5FEB7-B8E4-415B-9F11-3F4D10916BCB}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\BankingSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankingSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\walee\\source\\repos\\Assignment 1\\Assignment 1\\BankingSystem.cpp",
+              "RelativeDocumentMoniker": "Assignment 1\\BankingSystem.cpp",
+              "ToolTip": "C:\\Users\\walee\\source\\repos\\Assignment 1\\Assignment 1\\BankingSystem.cpp",
+              "RelativeToolTip": "Assignment 1\\BankingSystem.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-03T08:48:33.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

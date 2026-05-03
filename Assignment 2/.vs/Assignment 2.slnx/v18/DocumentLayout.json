@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\walee\\source\\repos\\Assignment 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A91874-B7BF-4AB2-8C39-0AAB388C0B9C}|Assignment 2\\Assignment 2.vcxproj|C:\\Users\\walee\\source\\repos\\Assignment 2\\Assignment 2\\BankingSystemAdvanced.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8A91874-B7BF-4AB2-8C39-0AAB388C0B9C}|Assignment 2\\Assignment 2.vcxproj|solutionrelative:Assignment 2\\BankingSystemAdvanced.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankingSystemAdvanced.cpp",
+              "DocumentMoniker": "C:\\Users\\walee\\source\\repos\\Assignment 2\\Assignment 2\\BankingSystemAdvanced.cpp",
+              "RelativeDocumentMoniker": "Assignment 2\\BankingSystemAdvanced.cpp",
+              "ToolTip": "C:\\Users\\walee\\source\\repos\\Assignment 2\\Assignment 2\\BankingSystemAdvanced.cpp",
+              "RelativeToolTip": "Assignment 2\\BankingSystemAdvanced.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-03T09:02:01.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
